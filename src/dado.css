@@ -1,0 +1,13 @@
+.dado{
+    background-color: black;
+    font-size: 15px;
+    height: 40px;
+    width: 40px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
